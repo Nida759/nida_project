@@ -1,0 +1,11 @@
+[package]
+name = "nida_professional"
+version = "0.1.0"
+authors = ["Nida Khan <knida5637@gmail.com>"]
+edition = "2018"
+description = "My third library"
+license = "MIT"
+repository = "https://github.com/Nida759/nida_project"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
